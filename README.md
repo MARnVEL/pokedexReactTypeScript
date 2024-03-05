@@ -1,5 +1,5 @@
 
-# Just another PokeAPI with React + TypeScript
+# Just another Pokedex with React + TypeScript
 
 * Este repositorio fue creado para realizar algunas prácticas de React con TypeScript.
 * Mi intención es no perder la práctica de cuestiones vinculadas a React, el manejo de estado y peticiones asíncronas que estuve estudiando hace ya 2 años.
