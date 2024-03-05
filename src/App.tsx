@@ -1,9 +1,10 @@
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router } from 'react-router-dom'
 import { Route, Routes } from 'react-router-dom'
 
 import './App.css'
-import Listado from './pages/Listado'
+import Home from './pages/Home'
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
     <Router>
       <div className="">
         <Routes>
-          <Route path='/' element={<Listado />}/>
+          <Route path='/' element={<Home />}/>
         </Routes>
       </div>
     </Router>
