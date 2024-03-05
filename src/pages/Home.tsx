@@ -1,8 +1,13 @@
+import Listado from "../layout/Listado";
+import NavBar from "../layout/NavBar";
 
 
 const Home = () => {
   return (
-    <div>Listado</div>
+    <>
+      <NavBar />
+      <Listado />
+    </>
   )
 }
 
